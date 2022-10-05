@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/fabulousbakre/FEM-product-preview-card)
-- Live Site URL: [Add live site URL here](https://myjourney-product-preview-card.netlify.app/)
+- Solution URL: [here](https://github.com/fabulousbakre/FEM-product-preview-card)
+- Live Site URL: [here](https://myjourney-product-preview-card.netlify.app/)
 
 ## My process
 
