@@ -27,7 +27,7 @@ body {
     /* width: 50%; */
     width: calc(50% - 20px);
     padding: 20px;
-    background-image: url("/Project Preview card/images/image-product-desktop.jpg");
+    background-image: url("/images/image-product-desktop.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -118,7 +118,7 @@ p {
     .image {
         border-radius: 20px 20px 0 0;
         width: auto;
-        background-image: url("/Project Preview card/images/image-product-mobile.jpg");
+        background-image: url("/images/image-product-mobile.jpg");
         height: calc(50vh - 20px);
     }
 
